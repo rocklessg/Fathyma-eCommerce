@@ -8,6 +8,8 @@ WORKDIR /src
 COPY *.sln .
 #COPY ["FathymaPieShop/FathymaPieShop.csproj", "FathymaPieShop/"]
 COPY FathymaPieShop/*.csproj FathymaPieShop/
+COPY FathymaPieShop/DatabaseAccess/*.csproj FathymaPieShop/DatabaseAccess/
+COPY FathymaPieShop/Core/*.csproj FathymaPieShop/Core/
 RUN dotnet restore FathymaPieShop/*.csproj
 COPY . .
 
