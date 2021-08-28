@@ -1,0 +1,145 @@
+[
+  {
+    "Id": 1,
+    "CategoryName": "Fruit pies",
+    "Description": "All-fruity pies",
+    "Pies": [
+
+      {
+        "Id": 1,
+        "PieName": "Apple Pie",
+        "Price": 12.95,
+        "Description": "Our famous apple pies!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/applepie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": true,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/applepiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 4,
+        "PieName": "Cherry Pie",
+        "Price": 15.95,
+        "Description": "A summer classic!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/cherrypie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/cherrypiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 7,
+        "PieName": "Peach Pie",
+        "Price": 15.95,
+        "Description": "Sweet as peach",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/peachpie.jpg",
+        "InStock": false,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/peachpiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 9,
+        "PieName": "Rhubarb Pie",
+        "Price": 15.95,
+        "Description": "My God, so sweet!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/rhubarbpie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": true,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/rhubarbpiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 10,
+        "PieName": "Strawberry Pie",
+        "Price": 15.95,
+        "Description": "Our delicious strawberry pie!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/strawberrypie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/strawberrypiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "CategoryName": "Cheese cakes",
+    "Description": "Cheery all the way",
+    "Pies": [
+      {
+        "Id": 2,
+        "PieName": "Blueberry Cheese Cake",
+        "Price": 18.95,
+        "Description": "You'll love it!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/blueberrycheesecake.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/blueberrycheesecakesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 3,
+        "PieName": "Cheese Cake",
+        "Price": 18.95,
+        "Description": "Plain cheese cake. Plain pleasure.",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/cheesecake.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/cheesecakesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 11,
+        "PieName": "Strawberry Cheese Cake",
+        "Price": 18.95,
+        "Description": "You'll love it!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/strawberrycheesecake.jpg",
+        "InStock": false,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/strawberrycheesecakesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "CategoryName": "Cherry pies",
+    "Description": "Get in the mood for a berry pie",
+    "Pies": [
+      {
+        "Id": 5,
+        "PieName": "Christmas Apple Pie",
+        "Price": 13.95,
+        "Description": "Happy holidays with this pie!",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/christmasapplepie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/christmasapplepiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 6,
+        "PieName": "Cranberry Pie",
+        "Price": 17.95,
+        "Description": "A Christmas favorite",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/cranberrypie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": false,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/cranberrypiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      },
+      {
+        "Id": 8,
+        "PieName": "Pumpkin Pie",
+        "Price": 12.95,
+        "Description": "Our Halloween favorite",
+        "ImageUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/pumpkinpie.jpg",
+        "InStock": true,
+        "IsPieOfTheWeek": true,
+        "ImageThumbnailUrl": "https://gillcleerenpluralsight.blob.core.windows.net/files/pumpkinpiesmall.jpg",
+        "NafdacNumber": "01-A12C"
+      }
+    ]
+  }
+]
