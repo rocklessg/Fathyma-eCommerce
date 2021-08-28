@@ -19,5 +19,5 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 COPY --from=publish src/FathymaPieShop/JsonFile/product.json json/
-ENTRYPOINT ["dotnet", "FathymaPieShop.dll"]
+#ENTRYPOINT ["dotnet", "FathymaPieShop.dll"]
 CMD ASPNETCORE_URLS=http://*:$PORT dotnet FathymaPieShop.dll
