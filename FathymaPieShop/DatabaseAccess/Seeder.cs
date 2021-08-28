@@ -19,8 +19,8 @@ namespace FathymaPieShop.DatabaseAccess
 
                 if (!context.Categories.Any())
                 {
-                
-                        var categoryData = File.ReadAllText(@"JsonFile\product.json");
+                    
+                    var categoryData = File.ReadAllText(@"JsonFile/product.json");
                     var categoryLists = JsonConvert.DeserializeObject<List<Category>>(categoryData);
                     await context.Categories.AddRangeAsync(categoryLists);
                 }

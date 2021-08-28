@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reLExnKGYd/VefzT/DfiV8Ur1/kAIcZG1aRCf64jpwqZSfCuvuUeqkD9IYggTYt71HTgr2PZdSRdExrFSjKC9g==",
+  "dgSpecHash": "kirn7pXJKCk9i7/DxbIZcFyOEwgSXn8DD8lIbJBFysyytewLhEMNz2AWQX1uYVX4gBQTdJ9eNm7yrONtREUgWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\week8Pulled\\week-8-rocklessg\\FathymaPieShop\\FathymaPieShop.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\FathymaPieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",
@@ -50,6 +50,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.10\\microsoft.extensions.primitives.3.1.10.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",
