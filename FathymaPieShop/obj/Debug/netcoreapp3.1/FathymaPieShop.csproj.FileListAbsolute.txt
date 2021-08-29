@@ -543,3 +543,4 @@ C:\Users\hp\Desktop\week8Pulled\FathymaPieShop\obj\Debug\netcoreapp3.1\FathymaPi
 C:\Users\hp\Desktop\week8Pulled\FathymaPieShop\obj\Debug\netcoreapp3.1\FathymaPieShop.dll
 C:\Users\hp\Desktop\week8Pulled\FathymaPieShop\obj\Debug\netcoreapp3.1\FathymaPieShop.pdb
 C:\Users\hp\Desktop\week8Pulled\FathymaPieShop\obj\Debug\netcoreapp3.1\FathymaPieShop.genruntimeconfig.cache
+C:\Users\hp\Desktop\week8Pulled\FathymaPieShop\obj\Debug\netcoreapp3.1\FathymaPieShop.csproj.AssemblyReference.cache
