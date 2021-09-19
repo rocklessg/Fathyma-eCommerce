@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kirn7pXJKCk9i7/DxbIZcFyOEwgSXn8DD8lIbJBFysyytewLhEMNz2AWQX1uYVX4gBQTdJ9eNm7yrONtREUgWA==",
+  "dgSpecHash": "0z8fHrsmYzdPI4Yhc1TKlVrlU6AUmdw5QGQtoquQmqv7ryDxh8fzz9+sgBHIB1KdXpF2a+dWBv9AadxPzH0mCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\FathymaPieShop.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\projects\\week8Task\\FathymaPieShop\\FathymaPieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",
