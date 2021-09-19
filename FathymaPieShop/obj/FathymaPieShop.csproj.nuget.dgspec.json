@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\FathymaPieShop.csproj": {}
+    "C:\\Users\\hp\\Desktop\\projects\\week8Task\\FathymaPieShop\\FathymaPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\FathymaPieShop.csproj": {
+    "C:\\Users\\hp\\Desktop\\projects\\week8Task\\FathymaPieShop\\FathymaPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\FathymaPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\projects\\week8Task\\FathymaPieShop\\FathymaPieShop.csproj",
         "projectName": "FathymaPieShop",
-        "projectPath": "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\FathymaPieShop.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\projects\\week8Task\\FathymaPieShop\\FathymaPieShop.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\week8Pulled\\FathymaPieShop\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\projects\\week8Task\\FathymaPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
